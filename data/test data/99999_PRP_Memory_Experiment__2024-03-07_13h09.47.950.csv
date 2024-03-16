@@ -1,0 +1,44 @@
+﻿WelcomeScreen.started,WelcomeScreen.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,consnet.started,consnet.stopped,consent_2.started,consent_2.stopped,consent_3.started,consent_3.stopped,consent_4.started,consent_4.stopped,key_resp_6.keys,key_resp_6.rt,key_resp_6.duration,BlanksScreen.started,BlanksScreen.stopped,Instructions.started,Instructions.stopped,keyInstructions.keys,keyInstructions.rt,keyInstructions.duration,StudyTrials.started,StudyTrials.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,WordItem,math_instruction.started,math_instruction.stopped,key_resp_11.keys,key_resp_11.rt,key_resp_11.duration,math.started,math.stopped,math_key_resp.keys,math_key_resp.rt,math_key_resp.duration,trials_4.thisRepN,trials_4.thisTrialN,trials_4.thisN,trials_4.thisIndex,trials_4.ran,MathProblem,WaitScreen.started,WaitScreen.stopped,keyWaitScreen.keys,keyWaitScreen.rt,keyWaitScreen.duration,Y_NScreen.started,Y_NScreen.stopped,key_Y_NScreen.keys,key_Y_NScreen.rt,key_Y_NScreen.duration,TestTrials.started,TestTrials.stopped,memory_test_key_resp.keys,memory_test_key_resp.rt,memory_test_key_resp.duration,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,trials_2.ran,LSQInstructions.started,LSQInstructions.stopped,TestInstructionKey.keys,TestInstructionKey.rt,TestInstructionKey.duration,LonlinessScaleQuestions.started,LonlinessScaleQuestions.stopped,LonlinessQuestionsKeyResp.keys,LonlinessQuestionsKeyResp.rt,LonlinessQuestionsKeyResp.duration,trials_3.thisRepN,trials_3.thisTrialN,trials_3.thisN,trials_3.thisIndex,trials_3.ran,Questions
+0,1.107,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,1.107,1.607,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,1.608,1.973,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,1.974,2.157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,2.158,3.625,y,1.421,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,3.625,4.123,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,4.124,4.858,space,0.699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,5.875,6.374,,,,,,4.879,5.874,0,0,0,3,1,Chest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,7.374,7.873,,,,,,6.376,7.374,0,1,1,2,1,Elephant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,8.874,9.374,,,,,,7.874,8.874,0,2,2,0,1,Cabin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,10.374,10.874,,,,,,9.375,10.374,0,3,3,5,1,Theater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,11.874,12.373,,,,,,10.875,11.874,0,4,4,4,1,Silk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,13.373,13.874,,,,,,12.373,13.373,0,5,5,1,1,Pipe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,,,,,,,,,,,,,,13.875,14.558,space,0.657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,16.841,17.34,,,,,,,,,,,,,,,,,,,14.567,16.841,t,2.253,,0,0,0,1,1,"Please answer the following question:
+7-4=3
+
+Type T for True
+Type F for False  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,18.674,19.173,,,,,,,,,,,,,,,,,,,17.34,18.674,f,1.315,,0,1,1,0,1,"Please answer the following question:
+2+3=10
+
+Type T for True
+Type F for False  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19.174,20.141,space,0.947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,20.141,20.64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20.641,23.725,space,3.05,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,23.725,24.224,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,24.841,25.34,,,,,,,,,,,,,Whip,,,,,,,,,,,,,,,,,,,,,,,,,,,24.237,24.841,y,0.589,,0,0,0,7,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,25.674,26.174,,,,,,,,,,,,,Cabin,,,,,,,,,,,,,,,,,,,,,,,,,,,25.342,25.674,n,0.321,,0,1,1,0,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,26.239,26.74,,,,,,,,,,,,,Theater,,,,,,,,,,,,,,,,,,,,,,,,,,,26.175,26.239,y,0.046,,0,2,2,5,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,26.89,27.39,,,,,,,,,,,,,Elephant,,,,,,,,,,,,,,,,,,,,,,,,,,,26.742,26.89,y,0.128,,0,3,3,2,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,27.44,27.94,,,,,,,,,,,,,Pipe,,,,,,,,,,,,,,,,,,,,,,,,,,,27.392,27.44,y,0.031,,0,4,4,1,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,28.024,28.524,,,,,,,,,,,,,Silk,,,,,,,,,,,,,,,,,,,,,,,,,,,27.942,28.024,y,0.065,,0,5,5,4,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,28.89,29.39,,,,,,,,,,,,,Watch,,,,,,,,,,,,,,,,,,,,,,,,,,,28.525,28.89,y,0.348,,0,6,6,6,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,29.891,30.391,,,,,,,,,,,,,Chest,,,,,,,,,,,,,,,,,,,,,,,,,,,29.392,29.891,n,0.481,,0,7,7,3,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,30.69,31.19,,,,,,,,,,,,,Pillow,,,,,,,,,,,,,,,,,,,,,,,,,,,30.393,30.69,n,0.279,,0,8,8,8,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,31.491,31.99,,,,,,,,,,,,,Giant,,,,,,,,,,,,,,,,,,,,,,,,,,,31.192,31.49,n,0.277,,0,9,9,9,1,,,,,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31.991,33.874,space,1.856,,,,,,,,,,,,
+,,99999,001,2024-03-07_13h09.47.950,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,33.883,34.374,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34.375,36.041,2,1.64,,0,0,0,0,1,"How often do you feel that you are ""in tune"" with the people around  you?
+
+ 
+1-Never  2-Rarely  3-Sometimes 4-Often                                                                                                   "

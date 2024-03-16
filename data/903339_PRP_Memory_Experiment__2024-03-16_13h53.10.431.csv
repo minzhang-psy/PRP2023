@@ -1,0 +1,11 @@
+﻿WelcomeScreen.started,WelcomeScreen.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,consnet.started,consnet.stopped,consent_2.started,consent_2.stopped,consent_3.started,consent_3.stopped,consent_4.started,consent_4.stopped,key_resp_6.keys,key_resp_6.rt,key_resp_6.duration,BlanksScreen.started,BlanksScreen.stopped,Instructions.started,Instructions.stopped,keyInstructions.keys,keyInstructions.rt,keyInstructions.duration,StudyTrials.started,StudyTrials.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,WordItem
+0,1.231,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,1.231,1.964,,,,,,,,,,,,,,,,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,1.965,2.53,,,,,,,,,,,,,,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,2.531,3.513,,,,,,,,,,,,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,3.514,6.364,y,2.814,,,,,,,,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,6.365,6.864,,,,,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,,,6.865,7.731,space,0.836,,,,,,,,,
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,8.748,9.247,,,,,,7.753,8.748,0,0,0,3,1,Chest
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,10.247,10.747,,,,,,9.249,10.247,0,1,1,2,1,Elephant
+,,903339,001,2024-03-16_13h53.10.431,PRP Memory Experiment ,2023.2.3,MacIntel,333.3333333,,,,,,,,,,,,11.747,12.247,,,,,,10.748,11.747,0,2,2,5,1,Theater

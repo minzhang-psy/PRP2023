@@ -1,0 +1,139 @@
+﻿WelcomeScreen.started,WelcomeScreen.stopped,participant,session,date,expName,psychopyVersion,OS,frameRate,consnet.started,consnet.stopped,consent_2.started,consent_2.stopped,consent_3.started,consent_3.stopped,consent_4.started,consent_4.stopped,key_resp_6.keys,key_resp_6.rt,key_resp_6.duration,BlanksScreen.started,BlanksScreen.stopped,Instructions.started,Instructions.stopped,keyInstructions.keys,keyInstructions.rt,keyInstructions.duration,StudyTrials.started,StudyTrials.stopped,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,WordItem,math_instruction.started,math_instruction.stopped,key_resp_11.keys,key_resp_11.rt,key_resp_11.duration,math.started,math.stopped,math_key_resp.keys,math_key_resp.rt,math_key_resp.duration,trials_4.thisRepN,trials_4.thisTrialN,trials_4.thisN,trials_4.thisIndex,trials_4.ran,MathProblem,WaitScreen.started,WaitScreen.stopped,keyWaitScreen.keys,keyWaitScreen.rt,keyWaitScreen.duration,Y_NScreen.started,Y_NScreen.stopped,key_Y_NScreen.keys,key_Y_NScreen.rt,key_Y_NScreen.duration,TestTrials.started,TestTrials.stopped,memory_test_key_resp.keys,memory_test_key_resp.rt,memory_test_key_resp.duration,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,trials_2.ran,LSQInstructions.started,LSQInstructions.stopped,TestInstructionKey.keys,TestInstructionKey.rt,TestInstructionKey.duration,LonlinessScaleQuestions.started,LonlinessScaleQuestions.stopped,LonlinessQuestionsKeyResp.keys,LonlinessQuestionsKeyResp.rt,LonlinessQuestionsKeyResp.duration,trials_3.thisRepN,trials_3.thisTrialN,trials_3.thisN,trials_3.thisIndex,trials_3.ran,Questions,end_exp.started,end_exp.stopped,key_resp_9.keys,key_resp_9.rt,key_resp_9.duration,debrief.started,debrief.stopped,key_resp_7.keys,key_resp_7.rt,key_resp_7.duration,EndScreen.started,EndScreen.stopped,key_resp_8.keys,key_resp_8.rt,key_resp_8.duration
+0,4.244,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,4.244,43.563,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,43.563,60.894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,60.894,74.179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,74.179,84.696,y,10.473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,84.7,85.196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,85.196,95.047,space,9.807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,96.063,96.562,,,,,,95.068,96.063,0,0,0,3,1,Chest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,97.562,98.062,,,,,,96.564,97.562,0,1,1,0,1,Cabin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,99.062,99.562,,,,,,98.063,99.062,0,2,2,5,1,Theater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,100.562,101.062,,,,,,99.563,100.562,0,3,3,1,1,Pipe,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,102.062,102.562,,,,,,101.063,102.062,0,4,4,2,1,Elephant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,103.562,104.062,,,,,,102.563,103.562,0,5,5,4,1,Silk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,104.064,116.463,space,12.375,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,122.547,123.046,,,,,,,,,,,,,,,,,,,116.472,122.546,t,6.044,,0,0,0,1,1,"Please answer the following question:
+7-4=3
+
+Type T for True
+Type F for False  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,126.796,127.296,,,,,,,,,,,,,,,,,,,123.048,126.795,f,3.723,,0,1,1,0,1,"Please answer the following question:
+2+3=10
+
+Type T for True
+Type F for False  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,127.297,128.413,space,1.094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,128.414,128.912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,128.913,139.514,space,10.576,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,139.514,140.012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,142.547,143.045,,,,,,,,,,,,,Watch,,,,,,,,,,,,,,,,,,,,,,,,,,,140.024,142.547,n,2.508,,0,0,0,6,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,144.513,145.013,,,,,,,,,,,,,Silk,,,,,,,,,,,,,,,,,,,,,,,,,,,143.047,144.513,y,1.447,,0,1,1,4,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,146.129,146.629,,,,,,,,,,,,,Pipe,,,,,,,,,,,,,,,,,,,,,,,,,,,145.014,146.129,y,1.094,,0,2,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,147.646,148.146,,,,,,,,,,,,,Chest,,,,,,,,,,,,,,,,,,,,,,,,,,,146.63,147.646,y,1.001,,0,3,3,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,149.196,149.696,,,,,,,,,,,,,Whip,,,,,,,,,,,,,,,,,,,,,,,,,,,148.148,149.196,n,1.026,,0,4,4,7,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,150.596,151.096,,,,,,,,,,,,,Cabin,,,,,,,,,,,,,,,,,,,,,,,,,,,149.697,150.596,y,0.883,,0,5,5,0,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,152.129,152.629,,,,,,,,,,,,,Pillow,,,,,,,,,,,,,,,,,,,,,,,,,,,151.097,152.129,n,1.02,,0,6,6,8,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,153.563,154.062,,,,,,,,,,,,,Elephant,,,,,,,,,,,,,,,,,,,,,,,,,,,152.63,153.562,y,0.92,,0,7,7,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,155.029,155.529,,,,,,,,,,,,,Theater,,,,,,,,,,,,,,,,,,,,,,,,,,,154.064,155.029,y,0.953,,0,8,8,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,156.596,157.096,,,,,,,,,,,,,Giant,,,,,,,,,,,,,,,,,,,,,,,,,,,155.53,156.596,n,1.045,,0,9,9,9,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,157.098,171.981,space,14.862,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,171.987,172.479,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,172.48,180.68,2,8.168,,0,0,0,0,1,"How often do you feel that you are ""in tune"" with the people around  you?
+
+ 
+1-Never  2-Rarely  3-Sometimes 4-Often                                                                                                   ",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,180.682,181.179,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,181.179,188.18,2,6.97,,0,1,1,1,1,"How often do you feel that there is no one you can turn
+
+
+ 1-Never  2-Rarely  3-Sometimes 4-Often                       ",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,188.182,188.68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,188.68,190.729,2,2.029,,0,2,2,2,1,"How often do you feel alone?
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,190.73,191.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,191.23,200.746,4,9.492,,0,3,3,3,1,"How often do you feel part of a group of friends?
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,200.748,201.246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201.247,206.296,4,5.02,,0,4,4,4,1,"How often do you feel that you lack companionship?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,206.298,206.796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206.797,213.38,2,6.559,,0,5,5,5,1,"How often do you feel that you have a lot in common with the people around you?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,213.382,213.88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213.88,219.896,2,5.994,,0,6,6,6,1,"How often do you feel that you are no longer close to anyone?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,219.897,220.397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,220.397,229.347,4,8.925,,0,7,7,7,1,"How often do you feel that your interests and ideas are not shared by those around you?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,229.348,229.847,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,229.847,232.964,4,3.087,,0,8,8,8,1,"How often do you feel outgoing and friendly?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,232.965,233.463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,233.463,236.68,3,3.195,,0,9,9,9,1,"How often do you feel close to people?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,236.681,237.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,237.18,246.781,3,9.574,,0,10,10,10,1,"How often do you feel left out?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,246.782,247.28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,247.28,251.847,2,4.531,,0,11,11,11,1,"How often do you feel that your relationships with others are not meaningful?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,251.848,252.347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,252.347,261.163,3,8.792,,0,12,12,12,1,"How often do you feel that no one really knows you well?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,261.165,261.664,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,261.664,264.396,3,2.705,,0,13,13,13,1,"How often do you feel isolated from others?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,264.398,264.896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,264.896,275.113,4,10.19,,0,14,14,14,1,"How often do you fee1 you can find companionship when you want it?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,275.114,275.614,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,275.614,282.381,4,6.737,,0,15,15,15,1,"How often do you feel that there are people who really understand you?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,282.382,282.881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,282.881,286.447,2,3.541,,0,16,16,16,1,"How often do you feel shy?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,286.449,286.947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,286.947,292.064,3,5.094,,0,17,17,17,1,"How often do you feel that people are around you but not with you?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,292.066,292.564,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,292.564,297.381,4,4.788,,0,18,18,18,1,"How often do you feel that there are people you can talk to?
+
+
+
+1-Never  2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,297.382,297.881,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,297.881,301.147,4,3.238,,0,19,19,19,1,"How often do you feel that there are people you can turn to?
+
+
+
+1-Never 2-Rarely  3-Sometimes 4-Often",,,,,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,301.149,305.597,space,4.434,,,,,,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,305.598,342.932,space,37.29,,,,,,
+,,966278,001,2024-03-07_13h19.33.271,PRP Memory Experiment ,2023.2.3,MacIntel,9.090909091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,342.933,345.899,space,2.946,

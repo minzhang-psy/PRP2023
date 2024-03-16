@@ -1,0 +1,512 @@
+55.4248 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fad414276a0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fad41427640>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fad414274c0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fad4183fca0>, multiSample=False, name='window1', numSamples=2, pos=[420.0, 262.5], screen=0, size=array([3360, 2100]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+55.4250 	EXP 	window1: mouseVisible = True
+55.4251 	EXP 	window1: backgroundImage = ''
+55.4251 	EXP 	window1: backgroundFit = 'none'
+55.4285 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+55.4285 	EXP 	window1: recordFrameIntervals = False
+55.5357 	EXP 	window1: recordFrameIntervals = True
+55.6475 	WARNING 	t of last frame was 13.55ms (=1/73)
+55.7581 	EXP 	Screen (0) actual frame rate measured at 90.56Hz
+55.7582 	EXP 	window1: recordFrameIntervals = False
+55.7602 	EXP 	window1: mouseVisible = False
+58.8644 	EXP 	PRP Memory Experiment : status = STARTED
+58.8649 	EXP 	window1: mouseVisible = True
+58.9282 	EXP 	Created TextWelcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='TextWelcome', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+58.9284 	EXP 	window1: mouseVisible = True
+58.9504 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+58.9505 	EXP 	window1: mouseVisible = True
+58.9657 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+58.9658 	EXP 	window1: mouseVisible = True
+58.9793 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+58.9795 	EXP 	window1: mouseVisible = True
+58.9969 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+58.9971 	EXP 	window1: mouseVisible = True
+58.9987 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+58.9988 	EXP 	window1: mouseVisible = True
+59.0084 	EXP 	Created textInstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textInstructions', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+59.0086 	EXP 	window1: mouseVisible = True
+59.0098 	EXP 	Created textStudyTrial = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textStudyTrial', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0099 	EXP 	window1: mouseVisible = True
+59.0116 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0117 	EXP 	window1: mouseVisible = True
+59.0192 	EXP 	Created text_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_9', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+59.0194 	EXP 	window1: mouseVisible = True
+59.0206 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0207 	EXP 	window1: mouseVisible = True
+59.0222 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0223 	EXP 	window1: mouseVisible = True
+59.0257 	EXP 	Created textWaitScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWaitScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='[Press the space bar to continue.]', units='height', win=Window(...), wrapWidth=1)
+59.0258 	EXP 	window1: mouseVisible = True
+59.0273 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0274 	EXP 	window1: mouseVisible = True
+59.0388 	EXP 	Created textY_NScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textY_NScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+59.0389 	EXP 	window1: mouseVisible = True
+59.0405 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0406 	EXP 	window1: mouseVisible = True
+59.0418 	EXP 	Created textTestTrials = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textTestTrials', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0419 	EXP 	window1: mouseVisible = True
+59.0435 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0436 	EXP 	window1: mouseVisible = True
+59.0547 	EXP 	Created TestInstruction = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='TestInstruction', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+59.0549 	EXP 	window1: mouseVisible = True
+59.0564 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0566 	EXP 	window1: mouseVisible = True
+59.0578 	EXP 	Created LonlinessScaleQuestionsText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='LonlinessScaleQuestionsText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+59.0579 	EXP 	window1: mouseVisible = True
+59.0633 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+59.0634 	EXP 	window1: mouseVisible = True
+59.2762 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='Debrief.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1. , 0.6]), texRes=128.0, units='height', win=Window(...))
+59.2764 	EXP 	window1: mouseVisible = True
+59.2807 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([   0., -100.]), rgb=UNKNOWN, text='Please press space bar to continue. ', units='height', win=Window(...), wrapWidth=1)
+59.2809 	EXP 	window1: mouseVisible = True
+59.2852 	EXP 	Created textEndScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textEndScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0228 	EXP 	TextWelcome: autoDraw = True
+14.0005 	DATA 	Keypress: space
+14.0090 	EXP 	TextWelcome: autoDraw = False
+14.0090 	EXP 	text: autoDraw = True
+14.6290 	DATA 	Keypress: space
+14.6365 	EXP 	text: autoDraw = False
+14.6365 	EXP 	text_3: autoDraw = True
+15.1648 	DATA 	Keypress: space
+15.1722 	EXP 	text_3: autoDraw = False
+15.1722 	EXP 	text_4: autoDraw = True
+15.7821 	DATA 	Keypress: space
+15.7942 	EXP 	text_4: autoDraw = False
+15.7942 	EXP 	text_5: autoDraw = True
+16.7195 	DATA 	Keypress: y
+16.7278 	EXP 	text_5: autoDraw = False
+16.7278 	EXP 	textBlank: autoDraw = True
+17.2444 	EXP 	textBlank: autoDraw = False
+17.2444 	EXP 	textInstructions: autoDraw = True
+17.9889 	EXP 	Imported PRP Study Trial Word List.xlsx as conditions, 6 conditions, 1 params
+17.9895 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+17.9898 	EXP 	New trial (rep=0, index=0): {'WordItem': 'Silk'}
+17.9948 	DATA 	Keypress: space
+18.0018 	EXP 	textInstructions: autoDraw = False
+18.0018 	EXP 	textStudyTrial: height = 0.05
+18.0018 	EXP 	textStudyTrial: height = 0.05
+18.0018 	EXP 	textStudyTrial: height = 0.05
+18.0018 	EXP 	textStudyTrial: text = 'Silk'
+18.0018 	EXP 	textStudyTrial: autoDraw = True
+18.9923 	EXP 	textStudyTrial: autoDraw = False
+18.9923 	EXP 	textBlank: autoDraw = True
+19.4791 	EXP 	New trial (rep=0, index=1): {'WordItem': 'Pipe'}
+19.4906 	EXP 	textBlank: autoDraw = False
+19.4906 	EXP 	textStudyTrial: height = 0.05
+19.4906 	EXP 	textStudyTrial: height = 0.05
+19.4906 	EXP 	textStudyTrial: height = 0.05
+19.4906 	EXP 	textStudyTrial: text = 'Pipe'
+19.4906 	EXP 	textStudyTrial: autoDraw = True
+20.4882 	EXP 	textStudyTrial: autoDraw = False
+20.4882 	EXP 	textBlank: autoDraw = True
+20.9791 	EXP 	New trial (rep=0, index=2): {'WordItem': 'Theater'}
+20.9903 	EXP 	textBlank: autoDraw = False
+20.9903 	EXP 	textStudyTrial: height = 0.05
+20.9903 	EXP 	textStudyTrial: height = 0.05
+20.9903 	EXP 	textStudyTrial: height = 0.05
+20.9903 	EXP 	textStudyTrial: text = 'Theater'
+20.9903 	EXP 	textStudyTrial: autoDraw = True
+21.9946 	EXP 	textStudyTrial: autoDraw = False
+21.9946 	EXP 	textBlank: autoDraw = True
+22.4791 	EXP 	New trial (rep=0, index=3): {'WordItem': 'Chest'}
+22.4912 	EXP 	textBlank: autoDraw = False
+22.4912 	EXP 	textStudyTrial: height = 0.05
+22.4912 	EXP 	textStudyTrial: height = 0.05
+22.4912 	EXP 	textStudyTrial: height = 0.05
+22.4912 	EXP 	textStudyTrial: text = 'Chest'
+22.4912 	EXP 	textStudyTrial: autoDraw = True
+23.5353 	EXP 	textStudyTrial: autoDraw = False
+23.5353 	EXP 	textBlank: autoDraw = True
+23.9866 	EXP 	New trial (rep=0, index=4): {'WordItem': 'Cabin'}
+23.9992 	EXP 	textBlank: autoDraw = False
+23.9992 	EXP 	textStudyTrial: height = 0.05
+23.9992 	EXP 	textStudyTrial: height = 0.05
+23.9992 	EXP 	textStudyTrial: height = 0.05
+23.9992 	EXP 	textStudyTrial: text = 'Cabin'
+23.9992 	EXP 	textStudyTrial: autoDraw = True
+25.0032 	EXP 	textStudyTrial: autoDraw = False
+25.0032 	EXP 	textBlank: autoDraw = True
+25.4865 	EXP 	New trial (rep=0, index=5): {'WordItem': 'Elephant'}
+25.4991 	EXP 	textBlank: autoDraw = False
+25.4991 	EXP 	textStudyTrial: height = 0.05
+25.4991 	EXP 	textStudyTrial: height = 0.05
+25.4991 	EXP 	textStudyTrial: height = 0.05
+25.4991 	EXP 	textStudyTrial: text = 'Elephant'
+25.4991 	EXP 	textStudyTrial: autoDraw = True
+26.4879 	EXP 	textStudyTrial: autoDraw = False
+26.4879 	EXP 	textBlank: autoDraw = True
+26.9941 	EXP 	textBlank: autoDraw = False
+26.9941 	EXP 	textBlank: autoDraw = False
+26.9941 	EXP 	text_9: autoDraw = True
+38.8055 	DATA 	Mouse: wheel shift=(0,0), pos=(578,697)
+38.9472 	DATA 	Mouse: wheel shift=(0,0), pos=(578,697)
+38.9613 	EXP 	Imported MathProblemDatasheetPRPPsychopy.xlsx as conditions, 2 conditions, 1 params
+38.9617 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+38.9619 	EXP 	New trial (rep=0, index=0): {'MathProblem': 'Please answer the following question:\n7-4=3\n\nType T for True\nType F for False  '}
+38.9730 	DATA 	Keypress: space
+38.9802 	EXP 	text_9: autoDraw = False
+38.9802 	EXP 	text_2: height = 0.05
+38.9802 	EXP 	text_2: height = 0.05
+38.9802 	EXP 	text_2: height = 0.05
+38.9802 	EXP 	text_2: text = 'Please answer the following question:\n7-4=3\n\nType T for True\nType F for False  '
+38.9802 	EXP 	text_2: autoDraw = True
+40.4689 	DATA 	Keypress: t
+40.4769 	EXP 	text_2: autoDraw = False
+40.4769 	EXP 	textBlank: autoDraw = True
+40.9694 	EXP 	New trial (rep=0, index=1): {'MathProblem': 'Please answer the following question:\n2+3=10\n\nType T for True\nType F for False  '}
+40.9880 	EXP 	textBlank: autoDraw = False
+40.9880 	EXP 	text_2: height = 0.05
+40.9880 	EXP 	text_2: height = 0.05
+40.9880 	EXP 	text_2: height = 0.05
+40.9880 	EXP 	text_2: text = 'Please answer the following question:\n2+3=10\n\nType T for True\nType F for False  '
+40.9880 	EXP 	text_2: autoDraw = True
+41.9640 	DATA 	Keypress: f
+41.9707 	EXP 	text_2: autoDraw = False
+41.9707 	EXP 	textBlank: autoDraw = True
+42.4703 	EXP 	textBlank: autoDraw = False
+42.4703 	EXP 	textBlank: autoDraw = False
+42.4703 	EXP 	textWaitScreen: autoDraw = True
+42.8302 	DATA 	Keypress: space
+42.8370 	EXP 	textWaitScreen: autoDraw = False
+42.8370 	EXP 	textBlank: autoDraw = True
+43.3369 	EXP 	textBlank: autoDraw = False
+43.3369 	EXP 	textBlank: autoDraw = False
+43.3369 	EXP 	textY_NScreen: autoDraw = True
+43.8980 	DATA 	Keypress: space
+43.9049 	EXP 	textY_NScreen: autoDraw = False
+43.9049 	EXP 	textBlank: autoDraw = True
+44.4037 	EXP 	Imported PRP Study Trial Word List.xlsx as conditions, 10 conditions, 1 params
+44.4043 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+44.4045 	EXP 	New trial (rep=0, index=0): {'WordItem': 'Chest'}
+44.4149 	EXP 	textBlank: autoDraw = False
+44.4149 	EXP 	textTestTrials: height = 0.05
+44.4149 	EXP 	textTestTrials: height = 0.05
+44.4149 	EXP 	textTestTrials: height = 0.05
+44.4149 	EXP 	textTestTrials: text = 'Chest'
+44.4149 	EXP 	textTestTrials: autoDraw = True
+47.0723 	DATA 	Keypress: t
+47.4687 	DATA 	Keypress: g
+48.2183 	DATA 	Keypress: g
+49.0815 	DATA 	Keypress: y
+49.0884 	EXP 	textTestTrials: autoDraw = False
+49.0884 	EXP 	textBlank: autoDraw = True
+49.5786 	EXP 	New trial (rep=0, index=1): {'WordItem': 'Cabin'}
+49.5895 	EXP 	textBlank: autoDraw = False
+49.5895 	EXP 	textTestTrials: height = 0.05
+49.5895 	EXP 	textTestTrials: height = 0.05
+49.5895 	EXP 	textTestTrials: height = 0.05
+49.5895 	EXP 	textTestTrials: text = 'Cabin'
+49.5895 	EXP 	textTestTrials: autoDraw = True
+50.1641 	DATA 	Keypress: f
+50.7296 	DATA 	Keypress: y
+50.7364 	EXP 	textTestTrials: autoDraw = False
+50.7364 	EXP 	textBlank: autoDraw = True
+51.2321 	EXP 	New trial (rep=0, index=2): {'WordItem': 'Pillow'}
+51.2431 	EXP 	textBlank: autoDraw = False
+51.2431 	EXP 	textTestTrials: height = 0.05
+51.2431 	EXP 	textTestTrials: height = 0.05
+51.2431 	EXP 	textTestTrials: height = 0.05
+51.2431 	EXP 	textTestTrials: text = 'Pillow'
+51.2431 	EXP 	textTestTrials: autoDraw = True
+54.6974 	DATA 	Keypress: y
+54.7042 	EXP 	textTestTrials: autoDraw = False
+54.7042 	EXP 	textBlank: autoDraw = True
+55.1974 	EXP 	New trial (rep=0, index=3): {'WordItem': 'Silk'}
+55.2096 	EXP 	textBlank: autoDraw = False
+55.2096 	EXP 	textTestTrials: height = 0.05
+55.2096 	EXP 	textTestTrials: height = 0.05
+55.2096 	EXP 	textTestTrials: height = 0.05
+55.2096 	EXP 	textTestTrials: text = 'Silk'
+55.2096 	EXP 	textTestTrials: autoDraw = True
+55.3149 	DATA 	Keypress: n
+55.3262 	EXP 	textTestTrials: autoDraw = False
+55.3262 	EXP 	textBlank: autoDraw = True
+55.8267 	EXP 	New trial (rep=0, index=4): {'WordItem': 'Theater'}
+55.8384 	EXP 	textBlank: autoDraw = False
+55.8384 	EXP 	textTestTrials: height = 0.05
+55.8384 	EXP 	textTestTrials: height = 0.05
+55.8384 	EXP 	textTestTrials: height = 0.05
+55.8384 	EXP 	textTestTrials: text = 'Theater'
+55.8384 	EXP 	textTestTrials: autoDraw = True
+56.0974 	DATA 	Keypress: n
+56.1094 	EXP 	textTestTrials: autoDraw = False
+56.1094 	EXP 	textBlank: autoDraw = True
+56.6030 	EXP 	New trial (rep=0, index=5): {'WordItem': 'Giant'}
+56.6170 	EXP 	textBlank: autoDraw = False
+56.6170 	EXP 	textTestTrials: height = 0.05
+56.6170 	EXP 	textTestTrials: height = 0.05
+56.6170 	EXP 	textTestTrials: height = 0.05
+56.6170 	EXP 	textTestTrials: text = 'Giant'
+56.6170 	EXP 	textTestTrials: autoDraw = True
+56.8818 	DATA 	Keypress: n
+56.8887 	EXP 	textTestTrials: autoDraw = False
+56.8887 	EXP 	textBlank: autoDraw = True
+57.3933 	EXP 	New trial (rep=0, index=6): {'WordItem': 'Elephant'}
+57.4097 	EXP 	textBlank: autoDraw = False
+57.4097 	EXP 	textTestTrials: height = 0.05
+57.4097 	EXP 	textTestTrials: height = 0.05
+57.4097 	EXP 	textTestTrials: height = 0.05
+57.4097 	EXP 	textTestTrials: text = 'Elephant'
+57.4097 	EXP 	textTestTrials: autoDraw = True
+57.6801 	DATA 	Keypress: n
+57.6869 	EXP 	textTestTrials: autoDraw = False
+57.6869 	EXP 	textBlank: autoDraw = True
+58.1774 	EXP 	New trial (rep=0, index=7): {'WordItem': 'Pipe'}
+58.1884 	EXP 	textBlank: autoDraw = False
+58.1884 	EXP 	textBlank: autoDraw = False
+58.1884 	EXP 	textTestTrials: height = 0.05
+58.1884 	EXP 	textTestTrials: height = 0.05
+58.1884 	EXP 	textTestTrials: height = 0.05
+58.1884 	EXP 	textTestTrials: text = 'Pipe'
+58.1884 	EXP 	textTestTrials: autoDraw = True
+58.4302 	DATA 	Keypress: n
+58.4370 	EXP 	textTestTrials: autoDraw = False
+58.4370 	EXP 	textBlank: autoDraw = True
+58.9277 	EXP 	New trial (rep=0, index=8): {'WordItem': 'Whip'}
+58.9390 	EXP 	textBlank: autoDraw = False
+58.9390 	EXP 	textTestTrials: height = 0.05
+58.9390 	EXP 	textTestTrials: height = 0.05
+58.9390 	EXP 	textTestTrials: height = 0.05
+58.9390 	EXP 	textTestTrials: text = 'Whip'
+58.9390 	EXP 	textTestTrials: autoDraw = True
+59.0479 	DATA 	Keypress: n
+59.0547 	EXP 	textTestTrials: autoDraw = False
+59.0547 	EXP 	textBlank: autoDraw = True
+59.5448 	EXP 	New trial (rep=0, index=9): {'WordItem': 'Watch'}
+59.5555 	EXP 	textBlank: autoDraw = False
+59.5555 	EXP 	textTestTrials: height = 0.05
+59.5555 	EXP 	textTestTrials: height = 0.05
+59.5555 	EXP 	textTestTrials: height = 0.05
+59.5555 	EXP 	textTestTrials: text = 'Watch'
+59.5555 	EXP 	textTestTrials: autoDraw = True
+59.8305 	DATA 	Keypress: n
+59.8427 	EXP 	textTestTrials: autoDraw = False
+59.8427 	EXP 	textBlank: autoDraw = True
+60.3593 	EXP 	textBlank: autoDraw = False
+60.3593 	EXP 	TestInstruction: autoDraw = True
+61.2205 	EXP 	Imported LonlinessScaleQuestionairePsychopy4.xlsx as conditions, 20 conditions, 1 params
+61.2212 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+61.2214 	EXP 	New trial (rep=0, index=0): {'Questions': 'How often do you feel that you are "in tune" with the people around  you?\n\n \n1-Never  2-Rarely  3-Sometimes 4-Often                                                                                                   '}
+61.2242 	DATA 	Keypress: space
+61.2311 	EXP 	TestInstruction: autoDraw = False
+61.2311 	EXP 	textBlank: autoDraw = True
+61.7481 	EXP 	textBlank: autoDraw = False
+61.7481 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+61.7481 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+61.7481 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+61.7481 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that you are "in tune" with the people around  you?\n\n \n1-Never  2-Rarely  3-Sometimes 4-Often                                                                                                   '
+61.7481 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+65.5963 	DATA 	Keypress: space
+71.7994 	DATA 	Keypress: space
+73.1971 	EXP 	New trial (rep=0, index=1): {'Questions': 'How often do you feel that there is no one you can turn\n\n\n 1-Never  2-Rarely  3-Sometimes 4-Often                       '}
+73.1999 	DATA 	Keypress: 2
+73.2117 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+73.2117 	EXP 	textBlank: autoDraw = True
+73.7307 	EXP 	textBlank: autoDraw = False
+73.7307 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+73.7307 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+73.7307 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+73.7307 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that there is no one you can turn\n\n\n 1-Never  2-Rarely  3-Sometimes 4-Often                       '
+73.7307 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+74.4495 	DATA 	Keypress: space
+74.8301 	EXP 	New trial (rep=0, index=2): {'Questions': 'How often do you feel alone?\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+74.8330 	DATA 	Keypress: 3
+74.8453 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+74.8453 	EXP 	textBlank: autoDraw = True
+75.3631 	EXP 	textBlank: autoDraw = False
+75.3631 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+75.3631 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+75.3631 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+75.3631 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel alone?\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+75.3631 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+75.8303 	EXP 	New trial (rep=0, index=3): {'Questions': 'How often do you feel part of a group of friends?\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+75.8331 	DATA 	Keypress: 3
+75.8455 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+75.8455 	EXP 	textBlank: autoDraw = True
+76.3596 	EXP 	textBlank: autoDraw = False
+76.3596 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+76.3596 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+76.3596 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+76.3596 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel part of a group of friends?\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+76.3596 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+76.5616 	EXP 	New trial (rep=0, index=4): {'Questions': 'How often do you feel that you lack companionship?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+76.5650 	DATA 	Keypress: 2
+76.5720 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+76.5720 	EXP 	textBlank: autoDraw = True
+77.0809 	EXP 	textBlank: autoDraw = False
+77.0809 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+77.0809 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+77.0809 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+77.0809 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that you lack companionship?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+77.0809 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+77.6141 	EXP 	New trial (rep=0, index=5): {'Questions': 'How often do you feel that you have a lot in common with the people around you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+77.6176 	DATA 	Keypress: 3
+77.6265 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+77.6265 	EXP 	textBlank: autoDraw = True
+78.1438 	EXP 	textBlank: autoDraw = False
+78.1438 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+78.1438 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+78.1438 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+78.1438 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that you have a lot in common with the people around you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+78.1438 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+78.5303 	DATA 	Keypress: space
+78.8433 	EXP 	New trial (rep=0, index=6): {'Questions': 'How often do you feel that you are no longer close to anyone?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+78.8460 	DATA 	Keypress: 3
+78.8528 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+78.8528 	EXP 	textBlank: autoDraw = True
+79.3593 	EXP 	textBlank: autoDraw = False
+79.3593 	EXP 	textBlank: autoDraw = False
+79.3593 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+79.3593 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+79.3593 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+79.3593 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that you are no longer close to anyone?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+79.3593 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+79.6602 	EXP 	New trial (rep=0, index=7): {'Questions': 'How often do you feel that your interests and ideas are not shared by those around you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+79.6633 	DATA 	Keypress: 3
+79.6702 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+79.6702 	EXP 	textBlank: autoDraw = True
+80.1775 	EXP 	textBlank: autoDraw = False
+80.1775 	EXP 	textBlank: autoDraw = False
+80.1775 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+80.1775 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+80.1775 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+80.1775 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that your interests and ideas are not shared by those around you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+80.1775 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+80.5194 	EXP 	New trial (rep=0, index=8): {'Questions': 'How often do you feel outgoing and friendly?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+80.5227 	DATA 	Keypress: 3
+80.5304 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+80.5304 	EXP 	textBlank: autoDraw = True
+81.0347 	EXP 	textBlank: autoDraw = False
+81.0347 	EXP 	textBlank: autoDraw = False
+81.0347 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+81.0347 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+81.0347 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+81.0347 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel outgoing and friendly?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+81.0347 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+81.3606 	EXP 	New trial (rep=0, index=9): {'Questions': 'How often do you feel close to people?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+81.3637 	DATA 	Keypress: 3
+81.3707 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+81.3707 	EXP 	textBlank: autoDraw = True
+81.8819 	EXP 	textBlank: autoDraw = False
+81.8819 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+81.8819 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+81.8819 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+81.8819 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel close to people?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+81.8819 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+81.9817 	EXP 	New trial (rep=0, index=10): {'Questions': 'How often do you feel left out?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+81.9849 	DATA 	Keypress: 3
+81.9918 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+81.9918 	EXP 	textBlank: autoDraw = True
+82.5011 	EXP 	textBlank: autoDraw = False
+82.5011 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+82.5011 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+82.5011 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+82.5011 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel left out?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+82.5011 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+82.6698 	EXP 	New trial (rep=0, index=11): {'Questions': 'How often do you feel that your relationships with others are not meaningful?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+82.6727 	DATA 	Keypress: 3
+82.6806 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+82.6806 	EXP 	textBlank: autoDraw = True
+83.1870 	EXP 	textBlank: autoDraw = False
+83.1870 	EXP 	textBlank: autoDraw = False
+83.1870 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+83.1870 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+83.1870 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+83.1870 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that your relationships with others are not meaningful?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+83.1870 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+83.4266 	EXP 	New trial (rep=0, index=12): {'Questions': 'How often do you feel that no one really knows you well?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+83.4296 	DATA 	Keypress: 3
+83.4365 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+83.4365 	EXP 	textBlank: autoDraw = True
+83.9441 	EXP 	textBlank: autoDraw = False
+83.9441 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+83.9441 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+83.9441 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+83.9441 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that no one really knows you well?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+83.9441 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+84.1878 	EXP 	New trial (rep=0, index=13): {'Questions': 'How often do you feel isolated from others?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+84.1965 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+84.1965 	EXP 	textBlank: autoDraw = True
+84.2001 	DATA 	Keypress: 3
+84.7076 	EXP 	textBlank: autoDraw = False
+84.7076 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+84.7076 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+84.7076 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+84.7076 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel isolated from others?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+84.7076 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+84.9142 	EXP 	New trial (rep=0, index=14): {'Questions': 'How often do you fee1 you can find companionship when you want it?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+84.9170 	DATA 	Keypress: 2
+84.9253 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+84.9253 	EXP 	textBlank: autoDraw = True
+85.4434 	EXP 	textBlank: autoDraw = False
+85.4434 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+85.4434 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+85.4434 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+85.4434 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you fee1 you can find companionship when you want it?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+85.4434 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+85.6368 	EXP 	New trial (rep=0, index=15): {'Questions': 'How often do you feel that there are people who really understand you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+85.6403 	DATA 	Keypress: 3
+85.6475 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+85.6475 	EXP 	textBlank: autoDraw = True
+86.1600 	EXP 	textBlank: autoDraw = False
+86.1600 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+86.1600 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+86.1600 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+86.1600 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that there are people who really understand you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+86.1600 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+86.3607 	EXP 	New trial (rep=0, index=16): {'Questions': 'How often do you feel shy?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+86.3638 	DATA 	Keypress: 3
+86.3707 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+86.3707 	EXP 	textBlank: autoDraw = True
+86.8762 	EXP 	textBlank: autoDraw = False
+86.8762 	EXP 	textBlank: autoDraw = False
+86.8762 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+86.8762 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+86.8762 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+86.8762 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel shy?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+86.8762 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+87.0970 	EXP 	New trial (rep=0, index=17): {'Questions': 'How often do you feel that people are around you but not with you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+87.1000 	DATA 	Keypress: 3
+87.1084 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+87.1084 	EXP 	textBlank: autoDraw = True
+87.6201 	EXP 	textBlank: autoDraw = False
+87.6201 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+87.6201 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+87.6201 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+87.6201 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that people are around you but not with you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+87.6201 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+87.7639 	EXP 	New trial (rep=0, index=18): {'Questions': 'How often do you feel that there are people you can talk to?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+87.7675 	DATA 	Keypress: 3
+87.7750 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+87.7750 	EXP 	textBlank: autoDraw = True
+88.2861 	EXP 	textBlank: autoDraw = False
+88.2861 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+88.2861 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+88.2861 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+88.2861 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that there are people you can talk to?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'
+88.2861 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+88.5102 	EXP 	New trial (rep=0, index=19): {'Questions': 'How often do you feel that there are people you can turn to?\n\n\n\n1-Never 2-Rarely  3-Sometimes 4-Often'}
+88.5133 	DATA 	Keypress: 3
+88.5202 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+88.5202 	EXP 	textBlank: autoDraw = True
+89.0354 	EXP 	textBlank: autoDraw = False
+89.0354 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+89.0354 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+89.0354 	EXP 	LonlinessScaleQuestionsText: height = 0.05
+89.0354 	EXP 	LonlinessScaleQuestionsText: text = 'How often do you feel that there are people you can turn to?\n\n\n\n1-Never 2-Rarely  3-Sometimes 4-Often'
+89.0354 	EXP 	LonlinessScaleQuestionsText: autoDraw = True
+89.1348 	DATA 	Keypress: 3
+89.1419 	EXP 	LonlinessScaleQuestionsText: autoDraw = False
+89.1419 	EXP 	text_7: autoDraw = True
+89.8127 	DATA 	Keypress: space
+89.8211 	EXP 	text_7: autoDraw = False
+89.8211 	EXP 	image: autoDraw = True
+89.8211 	EXP 	text_6: autoDraw = True
+91.0096 	DATA 	Keypress: space
+91.0167 	EXP 	image: autoDraw = False
+91.0167 	EXP 	text_6: autoDraw = False
+91.0167 	EXP 	textEndScreen: autoDraw = True
+91.7699 	DATA 	Keypress: space
+91.7767 	EXP 	textEndScreen: autoDraw = False
+91.7768 	EXP 	PRP Memory Experiment : status = STOPPED
+92.4865 	EXP 	window1: mouseVisible = True

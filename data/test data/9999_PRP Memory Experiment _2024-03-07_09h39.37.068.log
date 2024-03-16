@@ -1,0 +1,130 @@
+9.9037 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7feb64c245e0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7feb64c24580>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7feb64c24400>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7feb65166c40>, multiSample=False, name='window1', numSamples=2, pos=[420.0, 262.5], screen=0, size=array([3360, 2100]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.9038 	EXP 	window1: mouseVisible = True
+9.9038 	EXP 	window1: backgroundImage = ''
+9.9038 	EXP 	window1: backgroundFit = 'none'
+9.9056 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.9057 	EXP 	window1: recordFrameIntervals = False
+10.0020 	EXP 	window1: recordFrameIntervals = True
+10.0565 	WARNING 	t of last frame was 10.27ms (=1/97)
+10.0689 	WARNING 	t of last frame was 12.38ms (=1/80)
+10.1187 	WARNING 	t of last frame was 12.65ms (=1/79)
+10.1687 	WARNING 	t of last frame was 23.27ms (=1/42)
+10.2187 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+10.7908 	EXP 	Screen (0) actual frame rate measured at 89.24Hz
+10.7908 	EXP 	window1: recordFrameIntervals = False
+10.7930 	EXP 	window1: mouseVisible = False
+13.6466 	EXP 	PRP Memory Experiment : status = STARTED
+13.6471 	EXP 	window1: mouseVisible = True
+13.7024 	EXP 	Created TextWelcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='TextWelcome', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7026 	EXP 	window1: mouseVisible = True
+13.7244 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7246 	EXP 	window1: mouseVisible = True
+13.7405 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7407 	EXP 	window1: mouseVisible = True
+13.7544 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7546 	EXP 	window1: mouseVisible = True
+13.7724 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7726 	EXP 	window1: mouseVisible = True
+13.7820 	EXP 	Created textInstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textInstructions', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7821 	EXP 	window1: mouseVisible = True
+13.7896 	EXP 	Created text_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_9', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.7897 	EXP 	window1: mouseVisible = True
+13.7932 	EXP 	Created textWaitScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWaitScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='[Press the space bar to continue.]', units='height', win=Window(...), wrapWidth=1)
+13.7933 	EXP 	window1: mouseVisible = True
+13.8049 	EXP 	Created textY_NScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textY_NScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.8051 	EXP 	window1: mouseVisible = True
+13.8169 	EXP 	Created TestInstruction = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='TestInstruction', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.8171 	EXP 	window1: mouseVisible = True
+13.8225 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+13.8227 	EXP 	window1: mouseVisible = True
+13.8268 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([ 0., -1.]), rgb=UNKNOWN, text='Please press space bar to continue. ', units='height', win=Window(...), wrapWidth=1)
+13.8270 	EXP 	window1: mouseVisible = True
+13.8340 	EXP 	Created textEndScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textEndScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0537 	EXP 	TextWelcome: autoDraw = True
+5.4532 	DATA 	Keypress: space
+5.4613 	EXP 	TextWelcome: autoDraw = False
+5.4613 	EXP 	text: autoDraw = True
+6.0428 	DATA 	Keypress: space
+6.0509 	EXP 	text: autoDraw = False
+6.0509 	EXP 	text_3: autoDraw = True
+6.7223 	DATA 	Keypress: space
+6.7297 	EXP 	text_3: autoDraw = False
+6.7297 	EXP 	text_4: autoDraw = True
+7.1812 	DATA 	Keypress: space
+7.1897 	EXP 	text_4: autoDraw = False
+7.1897 	EXP 	text_5: autoDraw = True
+7.7714 	DATA 	Keypress: space
+8.8655 	DATA 	Keypress: y
+8.8729 	EXP 	text_5: autoDraw = False
+8.8729 	EXP 	textInstructions: autoDraw = True
+9.5802 	EXP 	Imported PRP Study Trial Word List.xlsx as conditions, 6 conditions, 1 params
+9.5808 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+9.5810 	EXP 	New trial (rep=0, index=0): {'WordItem': 'Elephant'}
+9.5820 	EXP 	New trial (rep=0, index=1): {'WordItem': 'Cabin'}
+9.5828 	EXP 	New trial (rep=0, index=2): {'WordItem': 'Theater'}
+9.5837 	EXP 	New trial (rep=0, index=3): {'WordItem': 'Chest'}
+9.5845 	EXP 	New trial (rep=0, index=4): {'WordItem': 'Silk'}
+9.5853 	EXP 	New trial (rep=0, index=5): {'WordItem': 'Pipe'}
+9.5892 	DATA 	Keypress: space
+9.5964 	EXP 	textInstructions: autoDraw = False
+9.5964 	EXP 	text_9: autoDraw = True
+10.0934 	EXP 	Imported MathProblemDatasheetPRPPsychopy.xlsx as conditions, 2 conditions, 1 params
+10.0938 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+10.0940 	EXP 	New trial (rep=0, index=0): {'MathProblem': 'Please answer the following question:\n2+3=10\n\nType T for True\nType F for False  '}
+10.0980 	EXP 	New trial (rep=0, index=1): {'MathProblem': 'Please answer the following question:\n7-4=3\n\nType T for True\nType F for False  '}
+10.1017 	DATA 	Keypress: space
+10.1087 	EXP 	text_9: autoDraw = False
+10.1087 	EXP 	textWaitScreen: autoDraw = True
+10.7989 	DATA 	Keypress: space
+10.8065 	EXP 	textWaitScreen: autoDraw = False
+10.8065 	EXP 	textY_NScreen: autoDraw = True
+12.7271 	EXP 	Imported PRP Study Trial Word List.xlsx as conditions, 10 conditions, 1 params
+12.7277 	EXP 	Created sequence: random, trialTypes=10, nReps=1, seed=None
+12.7278 	EXP 	New trial (rep=0, index=0): {'WordItem': 'Theater'}
+12.7287 	EXP 	New trial (rep=0, index=1): {'WordItem': 'Chest'}
+12.7295 	EXP 	New trial (rep=0, index=2): {'WordItem': 'Whip'}
+12.7304 	EXP 	New trial (rep=0, index=3): {'WordItem': 'Watch'}
+12.7312 	EXP 	New trial (rep=0, index=4): {'WordItem': 'Elephant'}
+12.7319 	EXP 	New trial (rep=0, index=5): {'WordItem': 'Cabin'}
+12.7328 	EXP 	New trial (rep=0, index=6): {'WordItem': 'Silk'}
+12.7336 	EXP 	New trial (rep=0, index=7): {'WordItem': 'Giant'}
+12.7343 	EXP 	New trial (rep=0, index=8): {'WordItem': 'Pipe'}
+12.7351 	EXP 	New trial (rep=0, index=9): {'WordItem': 'Pillow'}
+12.7391 	DATA 	Keypress: space
+12.7464 	EXP 	textY_NScreen: autoDraw = False
+12.7464 	EXP 	TestInstruction: autoDraw = True
+13.8943 	EXP 	Imported LonlinessScaleQuestionairePsychopy4.xlsx as conditions, 20 conditions, 1 params
+13.8949 	EXP 	Created sequence: sequential, trialTypes=20, nReps=1, seed=None
+13.8951 	EXP 	New trial (rep=0, index=0): {'Questions': 'How often do you feel that you are "in tune" with the people around  you?\n\n \n1-Never  2-Rarely  3-Sometimes 4-Often                                                                                                   '}
+13.8960 	EXP 	New trial (rep=0, index=1): {'Questions': 'How often do you feel that there is no one you can turn\n\n\n 1-Never  2-Rarely  3-Sometimes 4-Often                       '}
+13.8970 	EXP 	New trial (rep=0, index=2): {'Questions': 'How often do you feel alone?\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.8978 	EXP 	New trial (rep=0, index=3): {'Questions': 'How often do you feel part of a group of friends?\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.8986 	EXP 	New trial (rep=0, index=4): {'Questions': 'How often do you feel that you lack companionship?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.8994 	EXP 	New trial (rep=0, index=5): {'Questions': 'How often do you feel that you have a lot in common with the people around you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9002 	EXP 	New trial (rep=0, index=6): {'Questions': 'How often do you feel that you are no longer close to anyone?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9010 	EXP 	New trial (rep=0, index=7): {'Questions': 'How often do you feel that your interests and ideas are not shared by those around you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9017 	EXP 	New trial (rep=0, index=8): {'Questions': 'How often do you feel outgoing and friendly?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9025 	EXP 	New trial (rep=0, index=9): {'Questions': 'How often do you feel close to people?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9032 	EXP 	New trial (rep=0, index=10): {'Questions': 'How often do you feel left out?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9040 	EXP 	New trial (rep=0, index=11): {'Questions': 'How often do you feel that your relationships with others are not meaningful?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9048 	EXP 	New trial (rep=0, index=12): {'Questions': 'How often do you feel that no one really knows you well?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9056 	EXP 	New trial (rep=0, index=13): {'Questions': 'How often do you feel isolated from others?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9064 	EXP 	New trial (rep=0, index=14): {'Questions': 'How often do you fee1 you can find companionship when you want it?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9071 	EXP 	New trial (rep=0, index=15): {'Questions': 'How often do you feel that there are people who really understand you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9079 	EXP 	New trial (rep=0, index=16): {'Questions': 'How often do you feel shy?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9089 	EXP 	New trial (rep=0, index=17): {'Questions': 'How often do you feel that people are around you but not with you?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9096 	EXP 	New trial (rep=0, index=18): {'Questions': 'How often do you feel that there are people you can talk to?\n\n\n\n1-Never  2-Rarely  3-Sometimes 4-Often'}
+13.9103 	EXP 	New trial (rep=0, index=19): {'Questions': 'How often do you feel that there are people you can turn to?\n\n\n\n1-Never 2-Rarely  3-Sometimes 4-Often'}
+13.9136 	DATA 	Keypress: space
+13.9206 	EXP 	TestInstruction: autoDraw = False
+13.9206 	EXP 	text_7: autoDraw = True
+15.3720 	DATA 	Keypress: space
+15.3791 	EXP 	text_7: autoDraw = False
+15.3791 	EXP 	text_6: autoDraw = True
+18.5148 	DATA 	Keypress: space
+18.5221 	EXP 	text_6: autoDraw = False
+18.5221 	EXP 	textEndScreen: autoDraw = True
+21.3870 	DATA 	Keypress: space
+21.3940 	EXP 	textEndScreen: autoDraw = False
+21.3940 	EXP 	PRP Memory Experiment : status = STOPPED
+21.9997 	EXP 	window1: mouseVisible = True
